@@ -17,8 +17,8 @@ Some of these are good side projects. Some are great to practice. Some are meta.
 
 ## Abstract
 - Work through Programming Pearls.
-- Read [What Every Programmer Should Know About Memory]. [What Every Programmer Should Know About Memory]:https://www.akkadia.org/drepper/cpumemory.pdf
-- Read [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)]:http://www.joelonsoftware.com/articles/Unicode.html 
+- Read [What Every Programmer Should Know About Memory](https://www.akkadia.org/drepper/cpumemory.pdf).
+- Read [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](http://www.joelonsoftware.com/articles/Unicode.html)
 
 ## Tool focused
 - Run a MapReduce job on openly available data.
