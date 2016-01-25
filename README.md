@@ -38,7 +38,7 @@ Some of these are good side projects. Some are great to practice. Some are meta.
 - Read a book on [Test Driven Development](http://www.amazon.com/Test-Driven-Development-By-Example/dp/0321146530)
 
 ## Specific tool focused
-- Learn Markdown.
+- Learn [Markdown](https://help.github.com/articles/markdown-basics/)
 - Run a MapReduce job on openly available data.
 - Personally rack a server.
 - Use only functional language code in a project.
